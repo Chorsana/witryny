@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+* {
+	margin:0;
+	padding:0;
+}
+
+.bckgr {
+	background-color:greenyellow;
+	height:60vh;
+	width:99vw;
+	align-items:center;
+	float:left;
+}
+
+.one, .two, .three {
+	background-color:orange;
+	height:1.1em;
+	font-family:Arial, sans-serif;
+	font-style:italic;
+	margin:10.4vh;
+	margin-left:9vw;
+	padding:1vh;
+}
+
+.one, .two {
+	color:gray;
+	text-transform:uppercase;
+}
+
+.one {
+	width:85vw;
+	text-align:center;
+}
+
+.two {
+	width:63.5vw;
+	text-align:left;
+}
+
+.three {
+	color:lightgray;
+	width:42.5vw;
+	text-align:right;
+	text-transform:lowercase;
+}
+
+div {
+	background-color:gray;
+	height:15vh;
+	width:99vw;
+	align-items:center;
+	justify-content:center;
+	float:left;
+}
+
+h1 {
+	color:deeppink;
+	background-color:yellow;
+	height:1.1em;
+	width:90vw;
+	font-family:Arial, sans-serif;
+	text-align:center;
+	text-transform:uppercase;
+	margin-left:5vw;
+	margin-right:5vw;
+	margin-top:5vh;
+	margin-bottom:5vh;
+}
+
+#div_1 {
+	background-color:red;
+	height:90vh;
+	width:99vw;
+	align-items:center;
+	float:left;
+}
+
+#h1_1, #h1_2 {
+	color:white;
+	background-color:pink;
+	height:1.1em;
+	width:75vw;
+	font-family:Arial, sans-serif;
+	text-transform:uppercase;
+	margin:7.5vw;
+	padding:2em;
+}
+
+#h1_1 {
+	text-align:right;
+	margin-top:10vh;
+	margin-bottom:30vh;
+}
+
+#h1_2 {
+	text-align:left;
+	margin-bottom:10vh;
+}

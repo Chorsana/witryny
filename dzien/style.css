@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+* {
+	margin:0;
+	padding:0;
+}
+
+header, footer {
+	height:8vh;
+	width:100%;
+	background-color:darkorchid;
+	color:pink;
+	text-align:center;
+	padding-top:7vh;
+	margin:0;
+	float:left;
+}
+
+.mleft, .kleft {
+	height:70vh;
+	width:60%;
+	margin:0;
+	float:left;
+}
+
+.mleft {
+	background-color:darkblue;
+	color:lightskyblue;
+}
+
+.kleft {
+	background-color:darkred;
+	color:lightcoral;
+}
+
+p {
+	margin:10vh;
+}
+
+.mright, .kright {
+	height:70vh;
+	width:40%;
+	margin:0;
+	float:right;
+}
+
+.mright {
+	background-color:navy;
+	color:deepskyblue;
+}
+
+.kright {
+	background-color:maroon;
+	color:tomato;
+}
+
+img {
+	height:50vh;
+	margin:8vh;
+	padding:0;
+	float:right;
+}
+
+a {
+	color:pink;
+}

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+margin:0;
+padding:0;
+}
+
+.p1 {
+position:fixed;
+float:left;
+}
+
+.p2 {
+float:left;
+margin-left:20vw;
+}
+
+.p3 {
+float:left;
+}
+
+.p4 {
+float:left;
+}
+
+body {
+display: flex;
+width: 100vw;
+height: 100vh;
+align-items: flex-end;
+}
+
+img {
+display:inline-block;
+}
